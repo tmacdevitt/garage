@@ -1,3 +1,3 @@
-First pass, I think its done. 
+First pass, I think its done (actually there are bugs). 
 
 Edit for PR
