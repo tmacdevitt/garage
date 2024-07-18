@@ -14,7 +14,7 @@ function toggleGreen() {
             const currentColor = colorBoxes[currentIndex];
 
             if (currentColor === 'black') {
-                colorBoxes[currentIndex] = 'green';
+                colorBoxes[currentIndex] = 'blue';
                 console.log(`Toggled Box ${currentIndex + 1} to Green`);
             }
 
